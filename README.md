@@ -1,5 +1,5 @@
 ### Hello
-- I don´t know hwta to write here.
+- I don´t know what to write here.
 
 ### Social media ect.:
 
