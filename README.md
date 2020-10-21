@@ -1,11 +1,6 @@
 ### Hello
 - I don´t know what to write here.
 
-### [Twitter](https://twitter.com/joseywoermann/)
-
-
-### [Instagram](https://instagram.com/joseywoermann)
-
 
 ### [Website](https://bit.ly/joseywoermann)
 
