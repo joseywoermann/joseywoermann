@@ -1,9 +1,8 @@
 ### Hello
 - I don´t know what to write here.
 
-### [Twitter](https://twitter.com/joseywoermann/):
+### [Twitter](https://twitter.com/joseywoermann/)
 
-<br/>
 
 ### [Website](https://bit.ly/joseywoermann)
 
