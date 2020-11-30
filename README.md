@@ -9,4 +9,6 @@
 
 ---
 
-<img align="left" alt="joseywoermann's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joseywoermann&show_icons=true&hide_border=true" />
+<img align="left" alt="joseywoermann's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joseywoermann&theme=dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseywoermann&theme=dark"/>
