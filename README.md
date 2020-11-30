@@ -2,7 +2,7 @@
 - I don´t know what to write here.
 
 
-### [Website](https://bit.ly/joseywoermann)
+### [Website](http://joseywoermann.tk/)
 
 
 <br />
