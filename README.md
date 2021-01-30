@@ -6,7 +6,7 @@
 
 <br />
 
----
+
 
 <img align="left" alt="joseywoermann's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joseywoermann&theme=dark&show_icons=true" />
 <br/>
