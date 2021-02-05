@@ -2,8 +2,7 @@
 
 <hr>
 
-<a style="font-size: 20vh;" href="twitter.com/joseywoermann">Twitter</a>
-<!--[Twitter](https://twitter.com/joseywoermann/) -->
+[Twitter](https://twitter.com/joseywoermann/)
 
 <hr>
 
