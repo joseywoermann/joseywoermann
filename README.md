@@ -3,8 +3,8 @@
 
 ### Quick facts:
 
-- I am Josey C. Wörmann, student and developer
-- I live in Germany
-- I am currently working on my Discord bot [navnløs](https://github.com/joseywoermann/navnlos)
-- Languages that I know: **Python**, **Java**, **HTML**, **CSS**
-- Languages I want to learn: **Javascript**, (maybe) **C#**
+- ➡️ I am Josey C. Wörmann, student and developer
+- ➡️ I live in Germany
+- ➡️ I am currently working on my Discord bot [navnløs](https://github.com/joseywoermann/navnlos)
+- ➡️ Languages that I know: **Python**, **Java**, **HTML**, **CSS**
+- ➡️ Languages I want to learn: **Javascript**, (maybe) **C#**
