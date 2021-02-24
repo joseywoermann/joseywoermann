@@ -9,4 +9,4 @@
 - ➡️ Languages that I know: **Python**, **Java**, **HTML**, **CSS**
 - ➡️ Languages I want to learn: **Javascript**, (maybe) **C#**
 - ➡️ Music I like: I like Power- and Heavy-Metal, (Folk-)Rock and similar genres.
-- ➡️ My favourite artists are: Sabaton, Amaranthe, Skillet, The HU, The Sidh, Powerwolf, Kissin'Dynamite & more.
+- ➡️ My favourite artists are: **Sabaton**, **Amaranthe**, **Skillet**, **The HU**, **The Sidh**, **Powerwolf**, **Kissin'Dynamite** & more.
