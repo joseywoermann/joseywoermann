@@ -7,6 +7,6 @@
 - ➡️ I live in Germany
 - ➡️ I am currently working on my Discord bot [navnløs](https://github.com/joseywoermann/navnlos)
 - ➡️ Languages that I know: **Python**, **Java**, **HTML**, **CSS**
-- ➡️ Languages I want to learn: **Javascript**, (maybe) **C#**
+- ➡️ Languages I want to learn: **Javascript**, (maybe **C#**)
 - ➡️ Music I like: I like Power- and Heavy-Metal, (Folk-)Rock and similar genres.
 - ➡️ My favourite artists are: **Sabaton**, **Amaranthe**, **Skillet**, **Gloryhammer**, **The HU**, **The Sidh**, **Powerwolf**, **Kissin'Dynamite** & more.
