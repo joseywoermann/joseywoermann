@@ -6,7 +6,8 @@
 - ➡️ I am Josey C. Wörmann, student and developer
 - ➡️ I live in Germany
 - ➡️ I am currently working on my Discord bot [navnløs](https://github.com/joseywoermann/navnlos)
-- ➡️ Languages that I know: **Python**, **Java**, **HTML**, **CSS**
+- ➡️ LanguagesI am familiar with: **Python**, **Java**, **HTML**, **CSS**
 - ➡️ Languages I want to learn: **Javascript**, (maybe **C#**)
 - ➡️ Music I like: I like Power- and Heavy-Metal, (Folk-)Rock and similar genres.
 - ➡️ My favourite artists are: **Sabaton**, **Amaranthe**, **Skillet**, **Gloryhammer**, **The HU**, **The Sidh**, **Powerwolf**, **Kissin'Dynamite** & more.
+- ➡️ Check out [which artists](https://gist.github.com/joseywoermann/0bb4943ad415c08fe425929a2ecab0ac) I listened to the most last week!
