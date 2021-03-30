@@ -12,4 +12,4 @@
 - ➡️ Check out [which artists](https://gist.github.com/joseywoermann/0bb4943ad415c08fe425929a2ecab0ac) I listened to the most last week!
 
 
-This readme was inspired by [jacc](https://github.com/jacc).
+This readme was inspired by [jacc](https://github.com/jacc)'s profile.
