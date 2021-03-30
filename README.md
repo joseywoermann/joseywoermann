@@ -10,3 +10,6 @@
 - ➡️ I like Power Metal, Rock, Folk-Rock & similar genres.
 - ➡️ My favourite artists are: **Sabaton**, **Amaranthe**, **Skillet**, **The Sidh** and **I Prevail**.
 - ➡️ Check out [which artists](https://gist.github.com/joseywoermann/0bb4943ad415c08fe425929a2ecab0ac) I listened to the most last week!
+
+
+This readme was inspired by [jacc](https://github.com/jacc).
