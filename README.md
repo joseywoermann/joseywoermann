@@ -3,13 +3,13 @@
 
 ### Quick facts:
 
-- ➡️ I am Josey C. Wörmann, student and developer
-- ➡️ I live in Germany
-- ➡️ I am familiar with **Python**, **Java**, **HTML** and **CSS**.
-- ➡️ I am currently learning **JavaScript** & **TypeScript**.
-- ➡️ I like Power Metal, Rock, Folk-Rock & similar genres.
-- ➡️ My favourite artists are: **Sabaton**, **Amaranthe**, **Skillet**, **The Sidh** and **I Prevail**.
-- ➡️ Check out [which artists](https://gist.github.com/joseywoermann/0bb4943ad415c08fe425929a2ecab0ac) I listened to the most last week!
+- 1️⃣ I am a student and developer
+- 2️⃣ I live in Germany
+- 3️⃣ I am familiar with **Python**, **Java**, **HTML** and **CSS**.
+- 4️⃣ I am currently learning **JavaScript** & **TypeScript**.
+- 5️⃣ I like Power Metal, Rock, Folk-Rock & similar genres.
+- 6️⃣ My favourite artists are: **Sabaton**, **Amaranthe**, **Skillet**, **The Sidh** and **I Prevail**.
+-  Check out [what](https://gist.github.com/joseywoermann/0bb4943ad415c08fe425929a2ecab0ac) I listened to the most last week!
 
 
 This readme was inspired by [jacc](https://github.com/jacc)'s profile.
