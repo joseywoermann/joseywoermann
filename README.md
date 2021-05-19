@@ -5,7 +5,8 @@
 
 - ➡️ I am Josey C. Wörmann, student and developer
 - ➡️ I live in Germany
-- ➡️ The language I'm most familiar with is **Python**, and I am currently learning **Java**, **JavaScript**/**TypeScript** and web development.
+- ➡️ The language I'm most familiar with is **Python**
+- ➡️ I am currently learning **JavaScript**, **TypeScript** and **web development** (and **Java** because my school says so).
 - ➡️ TODO: learn some front end framework (most likely **Next.js**)
 - ➡️ I like Power Metal, Rock, Folk-Rock & similar genres.
 - ➡️ My favourite artists are: **Sabaton**, **Amaranthe**, **Skillet**, **The Sidh** and **I Prevail**.
