@@ -15,7 +15,6 @@ jobs:
       - uses: lowlighter/metrics@v3.10
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           
           # What to display
           user: joseywoermann
