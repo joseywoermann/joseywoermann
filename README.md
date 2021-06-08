@@ -1,9 +1,9 @@
-### 👋 Hi there, I am Josey C. Wörmann (he/him).
+### 👋 Hi there, I am Josey Wörmann (he/him).
 [![https://badgen.net/twitter/follow/joseywoermann](https://badgen.net/twitter/follow/joseywoermann)](https://twitter.com/joseywoermann) [![https://badgen.net/badge/joseywoermann.ml/Visit%20my%20Website!/cyan?icon=terminal](https://badgen.net/badge/joseywoermann.ml/Visit%20my%20Website!/cyan?icon=terminal)](https://joseywoermann.ml)
 
 ### Quick facts:
 
-- ➡️ I am Josey C. Wörmann, student and developer from Germany
+- ➡️ I am Josey Wörmann, student and developer from Germany
 - ➡️ The language I'm most familiar with is **Python**
 - ➡️ I am currently learning **JS / TS** & **Next.js** (and **Java** because my school says so).
 - ➡️ I like Power Metal, Rock, Folk-Rock & similar genres.
