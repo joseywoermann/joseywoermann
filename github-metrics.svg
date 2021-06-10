@@ -2738,8 +2738,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">api</span>
-                                <div class="bar" style="width: 25.2%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
+                                <div class="bar" style="width: 22.928%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">29%</span>
                             </div>
                         </div>
                     </section>
@@ -2748,8 +2748,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 22.319999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">28%</span>
+                                <div class="bar" style="width: 21.6%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27%</span>
                             </div>
                         </div>
                     </section>
@@ -2757,7 +2757,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Fri, 11 Jun 2021 00:08:07 (timezone Europe/Berlin) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 11 Jun 2021 01:07:52 (timezone Europe/Berlin) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
