@@ -19,6 +19,13 @@ jobs:
           user: joseywoermann
           template: classic
           base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 20
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: no
+          plugin_languages_recent_load: 5000
+          plugin_languages_recent_days: 365
           config_timezone: Europe/Berlin
           plugin_isocalendar: yes
           plugin_lines: yes
