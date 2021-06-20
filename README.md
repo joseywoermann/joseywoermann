@@ -12,6 +12,9 @@
 
 This readme was inspired by [jacc](https://github.com/jacc)'s profile.
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586206645592391711)](https://discord.com/users/586206645592391711)
+
+
 
 <p align="center">
   <img align="center" alt="Metrics" src="https://github.com/joseywoermann/joseywoermann/blob/master/github-metrics.svg" />
