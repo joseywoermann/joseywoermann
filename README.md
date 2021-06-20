@@ -16,6 +16,4 @@ This readme was inspired by [jacc](https://github.com/jacc)'s profile.
 
 
 
-<p align="center">
-  <img align="center" alt="Metrics" src="https://github.com/joseywoermann/joseywoermann/blob/master/github-metrics.svg" />
-</p
+<img align="center" alt="Metrics" src="https://github.com/joseywoermann/joseywoermann/blob/master/github-metrics.svg" />
