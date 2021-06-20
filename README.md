@@ -11,4 +11,4 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586206645592391711)](https://discord.com/users/586206645592391711)
 
-<img align="center" alt="Metrics" src="https://github.com/joseywoermann/joseywoermann/blob/master/github-metrics.svg" />
+<!--<img align="center" alt="Metrics" src="https://github.com/joseywoermann/joseywoermann/blob/master/github-metrics.svg" />-->
