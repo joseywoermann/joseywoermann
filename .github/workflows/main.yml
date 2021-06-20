@@ -19,15 +19,9 @@ jobs:
           user: joseywoermann
           template: classic
           base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 20
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: no
-          plugin_languages_recent_load: 5000
-          plugin_languages_recent_days: 365
           config_timezone: Europe/Berlin
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_lines: yes
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
@@ -36,8 +30,6 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: .user.login
           plugin_projects_descriptions: yes
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 365
