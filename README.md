@@ -9,11 +9,6 @@
 - ➡️ I like Power Metal, Rock, Folk-Rock & similar genres.
 - ➡️ Check out [what](https://gist.github.com/joseywoermann/0bb4943ad415c08fe425929a2ecab0ac) I listened to the most last week!
 
-
-This readme was inspired by [jacc](https://github.com/jacc)'s profile.
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586206645592391711)](https://discord.com/users/586206645592391711)
-
-
 
 <img align="center" alt="Metrics" src="https://github.com/joseywoermann/joseywoermann/blob/master/github-metrics.svg" />
