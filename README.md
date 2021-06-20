@@ -12,7 +12,7 @@
 
 This readme was inspired by [jacc](https://github.com/jacc)'s profile.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586206645592391711)](https://discord.com/users/586206645592391711)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586206645592391711?theme=light)](https://discord.com/users/586206645592391711)
 
 
 
