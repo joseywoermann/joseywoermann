@@ -1,5 +1,5 @@
 ### 👋 Hi there, I am Josey Wörmann (he/him).
-[![https://badgen.net/twitter/follow/joseywoermann](https://badgen.net/twitter/follow/joseywoermann)](https://twitter.com/joseywoermann) [![https://badgen.net/badge/joseywoermann.ml/Visit%20my%20Website!/cyan?icon=terminal](https://badgen.net/badge/joseywoermann.ml/Visit%20my%20Website!/cyan?icon=terminal)](https://joseywoermann.ml)
+[![https://badgen.net/twitter/follow/joseywoermann](https://badgen.net/twitter/follow/joseywoermann)](https://twitter.com/joseywoermann)
 
 ### Quick facts:
 
