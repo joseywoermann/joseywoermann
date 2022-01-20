@@ -6,8 +6,8 @@
 - ➡️ I am a Tech Enthusiast and developer from Germany.
 - ➡️ I am very interested in semiconductors and smartphones, as well as aviation
 - ➡️ I have experience in TypeScript, Python & Java
-- ➡️ I like Power Metal, Rock, Metalcore, Folk-Rock and more. Orchestras make every metal song better.
-- ➡️ I still haven't finished my website, in the meantime you can visit [bio.link/josey](https://bio.link/josey).
+- ➡️ I prefer heavy music such as Heavy Metal, Metalcore etc., but recently I've been getting into Synthwave and quite like it.
+- ➡️ I still haven't finished my website, but in the meantime you can visit [bio.link/josey](https://bio.link/josey).
 
 <!--
 
