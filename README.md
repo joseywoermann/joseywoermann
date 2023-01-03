@@ -6,7 +6,6 @@
 - ➡️ I am a **tech enthusiast** and **developer** from Germany.
 - ➡️ I am very interested in **semiconductors** and **smartphones**, as well as **aviation**, **history** and all kinds of **sciences**
 - ➡️ I have experience in **TypeScript**, **Python** & **Java**
-- ➡️ I still haven't finished my website, but in the meantime you can visit [**bio.link/josey**](https://bio.link/josey).
 
 <!--
 
