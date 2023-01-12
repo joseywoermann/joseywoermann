@@ -1,5 +1,5 @@
 ### 👋 Hey there, I am Josey C. Wörmann (he/him).
-[![https://badgen.net/twitter/follow/joseywoermann](https://badgen.net/twitter/follow/joseywoermann)](https://twitter.com/joseywoermann)
+[![https://badgen.net/twitter/follow/joseywoermann](https://badgen.net/twitter/follow/joseywoermann)](https://twitter.com/joseywoermann) ![Hits](https://hits-app.vercel.app/hits?url=https://github.com/joseywoermann&label=visits&bgRight=1D93DC)
 
 ### About me:
 
