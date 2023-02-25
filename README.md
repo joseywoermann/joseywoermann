@@ -1,8 +1,6 @@
-### 👋 Hey there, I am Josey C. Wörmann (he/him).
-[![https://badgen.net/twitter/follow/joseywoermann](https://badgen.net/twitter/follow/joseywoermann)](https://twitter.com/joseywoermann) ![Hits](https://hits-app.vercel.app/hits?url=https://github.com/joseywoermann&label=visits&bgRight=1D93DC)
+## 👋 Hey there, I am Josey C. Wörmann (he/him).
 
-### About me:
 
-- ➡️ I am a **tech enthusiast** and **developer** from Germany.
-- ➡️ I am very interested in **semiconductors** and **smartphones**, as well as **aviation**, **history** and all kinds of **sciences**
-- ➡️ I have experience in **TypeScript**, **Python** & **Java**
+### I'm a huge science nerd and occasional developer from Germany
+
+[links](https://josey.dev)
